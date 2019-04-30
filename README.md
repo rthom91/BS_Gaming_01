@@ -1,1 +1,1 @@
-# BS_Gaming_01 theme for e107 Boostrap CMS version 2
+# BS Gaming 01 theme for e107 Boostrap CMS version 2
