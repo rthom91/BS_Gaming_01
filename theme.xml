@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="BS Gaming 01" version="1.0" date="2016-12-22" compatibility="2.0" >
+	<author name="fizi" url="http://fizithemes.hu" email="fizi@wsb.hu"/>
+	<summary>BS Gaming 01 Bootstrap3 theme by fizi</summary>
+	<description>BS Gaming 01 bootstrap 3 theme</description>
+  <category>game</category>
+  <copyright>Theme by: FIZI THEMES</copyright>
+  <plugins>
+		<plugin name='featurebox' url='core' />
+    <plugin name='social' url='core' />
+	</plugins>
+	<keywords>
+		<word>bootstrap</word>
+		<word>game theme</word>
+    <word>responsive</word>
+	</keywords>
+	<screenshots>
+		<image>preview.jpg</image>
+	</screenshots>
+	<stylesheets>
+		<css file="style.css" name="Default"  />
+	</stylesheets>
+	<layouts>
+    <layout name='BS_Gaming_01_sidebar_left' title='BS Gaming 01 (sidebar-left)' default='true' >
+      <custompages>/news</custompages>	
+    </layout>
+    <layout name='BS_Gaming_01_full_width' title='BS Gaming 01 (full-width)' default='false' >
+      <custompages>forum</custompages>	
+    </layout>
+  </layouts>
+</e107Theme>
