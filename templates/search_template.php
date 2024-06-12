@@ -27,7 +27,7 @@ if(!isset($SEARCH_SHORTCODE))
     
 }
 
-
+$SEARCH_TEMPLATE['shortcode'] = $SEARCH_SHORTCODE;
 
 
 if(!isset($SEARCH_TOP_TABLE)) 
